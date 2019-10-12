@@ -1,33 +1,9 @@
-- The title of your project
-- The group members (firstname and lastname)
-- An addressing to the feedback that we will have provided for the Final Project
-proposal. List what you are doing / planning to do regarding the feedback
-provided for your project proposal.
-- Which software process model is employed in your project and why. (Ch 2)
-- List of software requirements including
-o Functional requirements. To simplify your design, please keep your
-functional requirements in the range minimum 5 (five) to maximum 7
-(seven). (Ch 4)
-o Non-functional requirements (use all non-functional requirement types
-listed in Figure 4.3 - Ch 4)
-- Use case diagram – Provide a use case diagram (similar to Figure 5.5) for your
-project. Please note than there should be more than one use cases depending on
-the complexity of your project. (Ch 5 and Ch 7)
-- Sequence diagram – Provide sequence diagrams (similar to Figure 5.6 and Figure
-5.7) for each use case of your project. Please note that there should be an
-individual sequence diagram for each use case of your project. (Ch 5 and Ch 7)
-- Class diagram – Provide a class diagram (similar to Figure 5.9) of your project.
-The class diagram should be unique (only one) and should include all classes of
-your project. Please make sure to include cardinalities, and relationship types
-(such as generalization and aggregation) between classes in your class diagram.
-Also make sure that each class has class name, attributes, and methods named (Ch
-5).
-- Architectural design – Provide an architectural design of your project. Based on
-the characteristics of your project, choose and apply only one appropriate
-architectural pattern from the following list: (Ch 6 section 6.3)
-o Model-View-Controller (MVC) pattern (similar to Figure 6.6)
-o Layered architecture pattern (similar to Figure 6.9)
-o Repository architecture pattern (similar to Figure 6.11)
-o Client-server architecture pattern (similar to Figure 6.13)
-o Pipe and filter architecture pattern (similar to Figure 6.15)
+1. A match making software 
+  1.1 Matching
+     1.1.1 Matches users based on mutual interests
+     1.1.2 Based on movies, TV shows, books, movies
+     1.1.3 
+  1.2 
+  1.3 Targeted audience is college students
 
+ 
