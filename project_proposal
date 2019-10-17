@@ -1,0 +1,25 @@
+-  The title of your project: 100%
+-  the group members (firstname and lastname)
+        Susana Lainez
+        Amy Abraham
+        Nguyen Le
+        Orlando Garcia
+        Soumaya Hajji
+        Daniel Arrant
+        James Ostlind
+-  What you will be doing:
+        Creating a dating application that pairs users using common interests. Based on how many common interests a person has with another individual, a person is assigned a compatibility ratio from 0% to 100%.  Questions involving common books, movies, tv shows, music, hobbies, etc. will be asked when the user starts a profile. As users start swiping through potential matches, they will see how compatible (percentage-wise) they are with other individuals on the application. Along with that filters such as distance, religion, occupation,etc. will also be available for users.
+-  A detailed description of your motivation (why you chose to do this particular
+project), where you expect your design to be used in real life.
+        Individuals are often looking for new people to meet and interact with. However, with how busy they are with classes and work, it can become hard to get out there and introduce yourself to new individuals, especially for those that tend to be more introverted. As a result, we have decided to create a dating app that allows individuals to interact with other people that possess similar interests in categories such as movies, TV shows, books, and music. Based on these criteria, the 100% algorithm will provide the user with a number between 1 and 100 based on how compatible two individuals are. This is different than current dating apps on the market for it provides the user with a rating on how compatible they are with others, something that is not included in applications like Tinder and Bumble.
+-  The list of tasks delegated to each member
+        Team leader: Ensure that each assignment is submitted on time, help team coordinator(s) arrange meetings and remind team of special due dates (when they are not available).
+        Member(s): Amy Abraham
+        Team Coordinator: Arrange meetings and remind team of special due dates.
+        Member(s): Susana Lainez, Nguyen Le
+        Lead Designer: Ensure that the diagrams are drawn out nicely and clearly with sufficient details. 
+        Member(s): Daniel Arrant
+        Lead Programmer: Make sure that the code is well implemented.
+        Member(s): James Ostlind
+        Team Member: Help with project and update any changes that were made with the team on either Scrum or any other framework. 
+        Member(s): Soumaya Hajji, Orlando Garcia 
